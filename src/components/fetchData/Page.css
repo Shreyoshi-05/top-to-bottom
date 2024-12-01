@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.page{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+.page h1{
+  font-size: 3rem;
+  color: #740938;
+}
+.page_container h3{
+  margin: 0.9rem;
+}
+.outside_click{
+  margin-bottom: 2rem;
+}
+.scroll{
+  padding: 0.7rem 1rem;
+  background-color: #D76C82;
+  color: white;
+  border: none;
+  border-radius: 0.4rem;
+}
+.hw{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  
+}
+span{
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 1px 1px 5px rgb(110, 100, 100);
+}
